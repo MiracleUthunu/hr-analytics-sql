@@ -68,10 +68,6 @@ MySQL 8.0 · MySQL Workbench 8.x · SQL (DDL + DML + DQL)
 ```
 6. Click **Commit changes**
 
----
 
-## Step 4 — You're Live ✅
-
-Your repo URL will be:
 ```
-https://github.com/YOUR-USERNAME/hr-analytics-sql
+https://github.com/MiracleUthunu/hr-analytics-sql
