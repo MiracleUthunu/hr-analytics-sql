@@ -1,4 +1,4 @@
-# hr-analytics-sql
+# HR ANALYSIS SQL
  MySQL HR analytics case study — workforce structure, compensation analysis, and organisational insights
 # HR Analytics — Workforce, Compensation & Organisational Insights
 > A MySQL case study analysing workforce structure, salary patterns, and management efficiency for a multinational company.
