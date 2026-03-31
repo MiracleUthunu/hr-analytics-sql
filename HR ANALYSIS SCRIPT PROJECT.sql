@@ -179,13 +179,14 @@ GROUP BY 1;
 -- Employees with dependents and their dependent count
 SELECT 
     e.first_name,
-    e.last_name,
+    e.last_name, 
     COUNT(dep.dependent_id) AS dependent_count
 FROM
     employees e
-        JOIN
+       LEFT JOIN
     dependents dep ON e.employee_id = dep.employee_id
 GROUP BY 1 , 2;
+
 
 
 -- Rank employees within each department by salary
